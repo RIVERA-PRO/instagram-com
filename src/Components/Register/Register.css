@@ -23,7 +23,13 @@
     background-color: var(--blanco2);
     width: 100%;
 }
-
+.input{
+    background-color: var(--blanco2);
+    border: 1px solid #00000018!important;
+    border-radius: 6px;
+  
+    
+}
 .enviar input{
     background-color: #18a9f2df;
     color: var(--blanco);
