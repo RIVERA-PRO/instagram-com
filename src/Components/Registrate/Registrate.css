@@ -1,0 +1,30 @@
+.Registrate{
+    display: flex;
+    border: 1px solid #00000034;
+    padding: 20px 10%;
+    gap: 10px;
+    border-radius: 2px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Registrate p{
+    color: #000000a9;
+    text-decoration: none;
+  
+}
+
+.Registrate a{
+    text-decoration: none;
+    font-weight: 500;
+    color: #18a9f2df;
+    font-size: 16px;
+}
+
+@media (max-width: 600px){
+    .Registrate{
+     
+        border: none;
+      
+    }
+}

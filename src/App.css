@@ -1,0 +1,20 @@
+*{
+  padding: 0 ;
+  margin: 0;
+  box-sizing: border-box;
+   transition: all .40s ease!important;
+   
+}
+:root{
+  --text-color: #000;
+  --bg-color: #111111;
+  --blanco: #fff;
+  --blanco2: #fafafa;
+
+}
+
+body{    background-color: var(--blanco);}
+
+
+
+ 

@@ -1,0 +1,28 @@
+.deFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+}
+
+.deFlex a{
+    text-decoration: none;
+    font-weight: 500;
+    color: #1D3C78;
+    font-size: 14px;
+}
+.redes-sociales{
+    background-color:#1D3C78;
+    color: var(--blanco);
+    padding: 0px 2px 0px 4px;
+    width: 20px;
+    height: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.redes-sociales a{
+    font-weight: 300!important;
+    color: var(--blanco);
+}

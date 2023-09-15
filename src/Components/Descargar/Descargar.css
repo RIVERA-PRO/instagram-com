@@ -1,0 +1,34 @@
+.Descargar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 0px 10%;
+    width: 100%;
+}
+
+.deFlexImg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+   
+}
+.deFlexImg img{
+    width: 150px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 7px;
+    
+}
+
+@media (max-width: 600px){
+    .deFlexImg img{
+        width: 130px;
+        height: 37px;
+        object-fit: cover;
+        border-radius: 7px;
+        
+    }
+}

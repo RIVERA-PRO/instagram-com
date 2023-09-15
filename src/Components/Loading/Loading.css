@@ -1,0 +1,19 @@
+.Loading{
+
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: center;
+   
+    padding: 20px;
+    gap: 40vh;
+}
+
+.meta{
+    width: 130px;
+}
+
+.logoLoading{
+    width: 110px;
+    padding-top: 30vh;
+}

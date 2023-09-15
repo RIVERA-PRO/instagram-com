@@ -1,0 +1,23 @@
+.subrayado{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 1rem;
+  
+    
+
+}
+
+.subrayado span{
+   
+    width:15px;
+    height: 10px;
+    border-radius: 100%;
+    border: 2px solid #00000077;
+}
+.subrayado hr{
+    border: 0.2px solid #00000013;
+    width: 100%;
+}
